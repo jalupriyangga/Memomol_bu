@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Groceries Store</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title1">Selamat Datang di Memomol</string>
+    <string name="title2">Cari Souvernir Cantik?</string>
+    <string name="title3">Simpan di Keranjang !</string>
+    <string name="title4">Lihat Kategori Favoritmu</string>
+    <string name="description1">Temukan keajaiban fantastis\ndengan menemukan cenderamata tersembunyi\nbersama Memomol</string>
+    <string name="description2">Ga usah pusing lagi buat beli\nkenang-kenangan indah berkualitas</string>
+    <string name="description3">Kumpulkan barang-barang yang\nmau kamu beli melalui fitur keranjang</string>
+    <string name="description4">Bersama Memomol, jelajahi imajinasi \nindahnya cenderamata favoritmu\nmelalui fitur kategori</string>
+    <string name="profile">Profile</string>
+    <string name="category">Category</string>
+</resources>
