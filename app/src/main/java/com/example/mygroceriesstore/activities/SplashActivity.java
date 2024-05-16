@@ -66,7 +66,7 @@ public class SplashActivity extends AppCompatActivity {
                         if (position < 3) {
                             viewPager.setCurrentItem(position + 1, true);
                         }else{
-                            saveState.setState(1); // ubah state jadi 1 kalau mau ga balik ke onboarding
+                            saveState.setState(0); // ubah state jadi 1 kalau mau ga balik ke onboarding
                             startActivity(new Intent(SplashActivity.this,LoginActivity.class));
                             finish();
                         }
