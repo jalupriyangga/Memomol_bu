@@ -11,9 +11,18 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
 import com.example.mygroceriesstore.R;
+import com.example.mygroceriesstore.adapters.PopularAdapters;
 import com.example.mygroceriesstore.databinding.FragmentHomeBinding;
+import com.example.mygroceriesstore.models.PopularModel;
+
+import java.util.List;
 
 public class HomeFragment extends Fragment {
+
+
+    //popular items
+    List<PopularModel> popularModelList;
+    PopularAdapters popularAdapters;
 
 
     public View onCreateView(@NonNull LayoutInflater inflater,
